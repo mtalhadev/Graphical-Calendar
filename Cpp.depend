@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548499008 source:e:\programming\data\cpp\cpp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<graphics.h>
+
